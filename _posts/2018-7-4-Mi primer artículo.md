@@ -7,4 +7,5 @@ Este es mi primer artículo
 
 # Creo que mi hermano mayor es gay
 
-darua79.github.io/images/serigrafía Dani.jpg
+![learning to fly]({{ site.baseurl }}/images/serigrafia_dani.png)
+
