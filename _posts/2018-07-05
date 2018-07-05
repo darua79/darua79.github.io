@@ -1,2 +1,11 @@
-kkkkkk
-ññññññññ
+---
+layout: post
+title: Mi segundo artículo!
+---
+
+Este es mi primer artículo
+
+# Creo que mi hermano mediano es gay también
+
+![learning to fly]({{ site.baseurl }}/images/serigraf.jpg)
+
